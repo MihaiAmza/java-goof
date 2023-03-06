@@ -1,5 +1,5 @@
 ## Java Goof
-[![Known Vulnerabilities](https://snyk.io/test/npm/{MihaiAmza}/badge.svg)](https://snyk.io/test/npm/{MihaiAmza})
+[![Known Vulnerabilities](https://snyk.io/test/github/{MihaiAmza}/{java-goof}/badge.svg?targetFile={root})](https://snyk.io/test/github/{MihaiAmza/{java-goof})
 This is a collection of Java demo apps that are vulnerable in different ways.
 
 It's divided into modules, each one having its own README:
